@@ -62,7 +62,10 @@ img{
         flex-direction: column;
         height: 400px;
     } 
-    
+    .third-row-second-container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
 }
 
 
